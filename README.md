@@ -1,5 +1,12 @@
 # login-bykom
 
+Lenguaje empleado en el back: 
+Java con spring framework
+
+Lenguaje empleado en el front:
+JavaScript con vue.js
+
+
 Cuentas para pobrar el login:
 
 Email: julian@gmail.com 
