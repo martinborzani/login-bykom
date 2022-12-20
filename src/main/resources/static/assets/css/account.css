@@ -1,0 +1,15 @@
+body{
+    background-color: #CECECE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    margin-top: 5rem;
+    background-color: #fff;
+    text-align: center;
+    padding: 3rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+}
